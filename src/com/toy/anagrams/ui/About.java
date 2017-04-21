@@ -81,6 +81,8 @@ public class About extends JDialog {
         copyrightTextArea.setLineWrap(true);
         copyrightTextArea.setRows(8);
         copyrightTextArea.setText("Anagrams\n\nCopyright (c) 2003  Irritable Enterprises, Inc.");
+        copyrightTextArea.setText("グループ名：Safuma");
+        copyrightTextArea.setText("グループメンバー：井上紗英、伊勢田毬瑛、大本風子");
         copyrightTextArea.setWrapStyleWord(true);
         copyrightTextArea.setBorder(null);
         copyrightTextArea.setFocusable(false);
